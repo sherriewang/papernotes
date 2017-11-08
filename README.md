@@ -19,6 +19,7 @@ Notes on papers I've read.
 * Accurate Genomic Prediction Of Human Height
 
 ## 2017
+* G. Hamerly and C. Elkan. [Learning the k in k-means.](https://papers.nips.cc/paper/2526-learning-the-k-in-k-means.pdf) Neural Information Processing Systems, 2003. 
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
 * Image-to-Image Translation with Conditional Adversarial Networks
 * Single Image Haze Removal Using Dark Channel Prior
