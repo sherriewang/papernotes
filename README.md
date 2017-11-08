@@ -16,6 +16,7 @@ Notes on papers I've read.
 * Crop yield gaps: their importance, magnitudes, and causes
 * A scalable satellite-based crop yield mapper
 * Dynamic Routing Between Capsules
+* Inherent Trade-Offs in the Fair Determination of Risk Scores
 * Accurate Genomic Prediction Of Human Height
 
 ## 2017
