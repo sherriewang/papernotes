@@ -11,7 +11,6 @@ Notes on papers I've read.
 * How transferable are features in deep neural networks?
 * Image Super-Resolution Using Deep Convolutional Networks
 * Fully convolutional networks for semantic segmentation
-* Prioritizing climate change adaptation needs for food security in 2030
 * Climate trends and global crop production since 1980
 * Crop yield gaps: their importance, magnitudes, and causes
 * A scalable satellite-based crop yield mapper
@@ -19,8 +18,13 @@ Notes on papers I've read.
 * Inherent Trade-Offs in the Fair Determination of Risk Scores
 * Accurate Genomic Prediction Of Human Height
 
+## 2018
+* N.P. Deepika and K. Vishnu. Different techniques for satellite image segmentation. IEEE, 2015.
+* N. Naik et al. Computer vision uncovers predictors of physical urban change. PNAS, 2017.
+* D.B. Lobell et al. Prioritizing climate change adaptation needs for food security in 2030. Science, 2008. [[paper]](http://science.sciencemag.org/content/319/5863/607)
+
 ## 2017
-* G. Hamerly and C. Elkan. [Learning the k in k-means.](https://papers.nips.cc/paper/2526-learning-the-k-in-k-means.pdf) Neural Information Processing Systems, 2003. 
+* G. Hamerly and C. Elkan. [Learning the k in k-means.](https://papers.nips.cc/paper/2526-learning-the-k-in-k-means.pdf) NIPS, 2003. 
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
 * Image-to-Image Translation with Conditional Adversarial Networks
 * Single Image Haze Removal Using Dark Channel Prior
