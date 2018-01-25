@@ -19,12 +19,17 @@ Notes on papers I've read.
 * Accurate Genomic Prediction Of Human Height
 
 ## 2018
-* N.P. Deepika and K. Vishnu. Different techniques for satellite image segmentation. IEEE, 2015.
-* N. Naik et al. Computer vision uncovers predictors of physical urban change. PNAS, 2017.
-* D.B. Lobell et al. Prioritizing climate change adaptation needs for food security in 2030. Science, 2008. [[paper]](http://science.sciencemag.org/content/319/5863/607)
+* Kemker, R., Salvaggio, C., and Kanan, C. Algorithms for Semantic Segmentation of Multispectral Remote Sensing Imagery using Deep Learning. (arxiv)
+* Hamida, A.B. et al. Deep learning for semantic segmentation of remote sensing images with rich spectral content. (arxiv)
+* Fried, O., Avidan, S. and Cohen-Or, D. Patch2Vec: Globally Consistent Image Patch Representation. (Pacific Graphics, 2017) [[paper](http://www.ohadf.com/papers/FriedAvidanCohenOr_PG2017.pdf)]
+* Yan, L. and Roy, D.P. Automated crop field extraction from multi-temporal Web Enabled Landsat Data. (Remote Sensing of Environment, 2014) [[paper](http://www.sciencedirect.com/science/article/pii/S0034425714000194)] [[notes](image_segmentation/automated_crop_field_extraction_from_landsat)]
+* Deepika, N.P. and Vishnu, K. Different techniques for satellite image segmentation. (IEEE, 2015)
+* Naik, N. et al. Computer vision uncovers predictors of physical urban change. (PNAS, 2017)
+* Lobell, D.B. et al. Prioritizing climate change adaptation needs for food security in 2030. (Science, 2008) [[paper](http://science.sciencemag.org/content/319/5863/607)]
 
 ## 2017
-* G. Hamerly and C. Elkan. [Learning the k in k-means.](https://papers.nips.cc/paper/2526-learning-the-k-in-k-means.pdf) NIPS, 2003. 
+* Xiong et al. Automated cropland mapping of continental Africa using Google Earth Engine cloud computing. (ISPRS Journal of Photogrammetry and Remote Sensing, 2017)
+* G. Hamerly and C. Elkan. Learning the k in k-means. (NIPS, 2003) [[paper](https://papers.nips.cc/paper/2526-learning-the-k-in-k-means.pdf)]
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
 * Image-to-Image Translation with Conditional Adversarial Networks
 * Single Image Haze Removal Using Dark Channel Prior
@@ -32,7 +37,6 @@ Notes on papers I've read.
 * A review on image segmentation techniques
 * Semi-supervised clustering methods
 * Data clustering with size constraints
-
 * Distributed Representations of Words and Phrases and their Compositionality
 * node2vec: Scalable Feature Learning for Networks
 * Network Inference via the Time-Varying Graphical Lasso
